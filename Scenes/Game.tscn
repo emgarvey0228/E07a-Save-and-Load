@@ -25,8 +25,10 @@ valign = 1
 script = ExtResource( 3 )
 
 [node name="Buttons" type="Node2D" parent="."]
+editor/display_folded = true
 
 [node name="SubtractButton" type="TextureButton" parent="Buttons"]
+editor/display_folded = true
 margin_left = 402.859
 margin_top = 195.215
 margin_right = 502.859
@@ -48,6 +50,7 @@ align = 1
 valign = 1
 
 [node name="AddButton" type="TextureButton" parent="Buttons"]
+editor/display_folded = true
 margin_left = 502.287
 margin_top = 192.625
 margin_right = 632.287
